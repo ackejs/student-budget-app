@@ -5,5 +5,5 @@
 -	category_id	(INT,	FK)
 -	type	(ENUM:	income,	expense)
 Таблица	categories:
--	id	(INT,	PK)
+-	id	(INT,	PK) 
 -	name	(VARCHAR)
